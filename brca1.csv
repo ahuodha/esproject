@@ -1,0 +1,822 @@
+Location,Mutation Type,Nucleotide Change,Classification,Posterior Probability
+Exon 2,Start Loss,c.1A>G,5 - Definitely pathogenic,0.99
+Exon 2,Start Loss,c.2T>C,5 - Definitely pathogenic,0.99
+Exon 2,Start Loss,c.2T>G,5 - Definitely pathogenic,0.99
+Exon 2,Start Loss,c.3G>C,5 - Definitely pathogenic,0.99
+Exon 2,Start Loss,c.3G>T,5 - Definitely pathogenic,0.99
+Exon 2,Nonsense,c.8T>G,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.13dupG,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.17_18delTT,5 - Definitely pathogenic,0.99
+Exon 2,Missense,c.19C>G,2 - Likely not pathogenic or of little clinical significance,0.002998405
+Exon 2,Insertion,c.32_33insC,5 - Definitely pathogenic,0.99
+Exon 2,Nonsense,c.34C>T,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.40dupG,5 - Definitely pathogenic,0.99
+Exon 2,Missense,c.43A>C,2 - Likely not pathogenic or of little clinical significance,0.002026338
+Exon 2,Insertion,c.45dupT,5 - Definitely pathogenic,0.99
+Exon 2,Missense,c.53T>C,5 - Definitely pathogenic,0.998289968
+Exon 2,Deletion,c.53delT,5 - Definitely pathogenic,0.99
+Exon 2,Nonsense,c.55C>T,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.61delA,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.62dupT,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.52_64del13,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.64_65delTT,5 - Definitely pathogenic,0.99
+Exon 2,Nonsense,c.65T>A,5 - Definitely pathogenic,0.99
+Exon 2,Missense,c.65T>C,5 - Definitely pathogenic,0.994
+Exon 2,Insertion,c.66_67insC,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.66dupA,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.68_69delAG,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.68dupA,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.68_69dupAG,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.72_73delTC,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.70_73dup4,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.70_80del11,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.75_80dup6,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+1G>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+1G>T,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+2T>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+2T>C,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-6T>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-2A>G,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-2A>C,5 - Definitely pathogenic,0.99
+Intron 2,Deletion,c.81-2delA,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-1G>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-1G>C,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.62dupT,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.52_64del13,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.64_65delTT,5 - Definitely pathogenic,0.99
+Exon 2,Nonsense,c.65T>A,5 - Definitely pathogenic,0.99
+Exon 2,Missense,c.65T>C,5 - Definitely pathogenic,0.994
+Exon 2,Insertion,c.66_67insC,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.66dupA,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.68_69delAG,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.68dupA,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.68_69dupAG,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.72_73delTC,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.70_73dup4,5 - Definitely pathogenic,0.99
+Exon 2,Deletion,c.70_80del11,5 - Definitely pathogenic,0.99
+Exon 2,Insertion,c.75_80dup6,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+1G>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+1G>T,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+2T>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.80+2T>C,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-6T>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-2A>G,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-2A>C,5 - Definitely pathogenic,0.99
+Intron 2,Deletion,c.81-2delA,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-1G>A,5 - Definitely pathogenic,0.99
+Intron 2,Splice Site,c.81-1G>C,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.83T>C,3 - Uncertain,0.635896419
+Exon 3,Deletion,c.83_84delTG,5 - Definitely pathogenic,0.99
+Exon 3,Nonsense,c.85G>T,5 - Definitely pathogenic,0.99
+Exon 3,Nonsense,c.89T>A,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.110C>A,5 - Definitely pathogenic,0.9996
+Exon 3,Deletion,c.112_113delAA,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.115T>C,5 - Definitely pathogenic,0.9933
+Exon 3,Deletion,c.117_118delTG,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.122A>G,5 - Definitely pathogenic,0.995
+Exon 3,Deletion,c.122delA,5 - Definitely pathogenic,0.99
+Exon 3,Deletion,c.124delA,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.130T>A,5 - Definitely pathogenic,0.9984
+Exon 3,Deletion,c.130delT,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.131G>A,5 - Definitely pathogenic,0.9972
+Exon 3,Missense,c.131G>T,5 - Definitely pathogenic,0.999963582
+Exon 3,Splice Site,c.132C>T,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.133A>C,1 - Not pathogenic or of no clinical significance,0.0008
+Exon 3,Deletion,c.133_134delAA,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.134A>C,2 - Likely not pathogenic or of little clinical significance,0.001772917
+Intron 3,Splice Site,c.134+1G>A,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.134+1G>T,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.134+2T>G,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.134+2T>C,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.83T>C,3 - Uncertain,0.635896419
+Exon 3,Deletion,c.83_84delTG,5 - Definitely pathogenic,0.99
+Exon 3,Nonsense,c.85G>T,5 - Definitely pathogenic,0.99
+Exon 3,Nonsense,c.89T>A,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.110C>A,5 - Definitely pathogenic,0.9996
+Exon 3,Deletion,c.112_113delAA,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.115T>C,5 - Definitely pathogenic,0.9933
+Exon 3,Deletion,c.117_118delTG,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.122A>G,5 - Definitely pathogenic,0.995
+Exon 3,Deletion,c.122delA,5 - Definitely pathogenic,0.99
+Exon 3,Deletion,c.124delA,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.130T>A,5 - Definitely pathogenic,0.9984
+Exon 3,Deletion,c.130delT,5 - Definitely pathogenic,0.99
+Exon 3,Missense,c.131G>A,5 - Definitely pathogenic,0.9972
+Exon 3,Missense,c.131G>T,5 - Definitely pathogenic,0.999963582
+Intron 3,Splice Site,c.134+3A>C,5 - Definitely pathogenic,0.99
+Intron 3,Deletion,c.134+3_134+6del4,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>G,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>A,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>T,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.134+3A>C,5 - Definitely pathogenic,0.99
+Intron 3,Deletion,c.134+3_134+6del4,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>G,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>A,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>T,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.134+3A>C,5 - Definitely pathogenic,0.99
+Intron 3,Deletion,c.134+3_134+6del4,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>G,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>A,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>T,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.134+3A>C,5 - Definitely pathogenic,0.99
+Intron 3,Deletion,c.134+3_134+6del4,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>G,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-2A>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>A,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>C,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.135-1G>T,5 - Definitely pathogenic,0.99
+Intron 3,Splice Site,c.134+3A>C,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.139delT,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.140G>A,5 - Definitely pathogenic,0.999999713
+Exon 5,Nonsense,c.141C>A,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.143delT,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.144delG,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.154C>A,2 - Likely not pathogenic or of little clinical significance,0.004114034
+Exon 5,Missense,c.154C>T,3 - Uncertain,0.125674152
+Exon 5,Nonsense,c.160C>T,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.160delC,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.172C>G,2 - Likely not pathogenic or of little clinical significance,0.014928405
+Exon 5,Nonsense,c.178C>T,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.178_179delCA,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.181T>G,5 - Definitely pathogenic,0.9998
+Exon 5,Missense,c.181T>A,4 - Likely Pathogenic,0.956784356
+Exon 5,Deletion,c.182_183delGT,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.185delC,5 - Definitely pathogenic,0.99
+Exon 5,Insertion,c.187_188insA,5 - Definitely pathogenic,0.99
+Exon 5,Nonsense,c.188T>A,5 - Definitely pathogenic,0.99
+Exon 5,Insertion,c.185_189dup5,5 - Definitely pathogenic,0.99
+Exon 5,Insertion,c.189dupA,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.191G>A,5 - Definitely pathogenic,1
+Exon 5,Nonsense,c.192T>A,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.190_193del4,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.195delG,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.199G>T,1 - Not pathogenic or of no clinical significance,0
+Exon 5,Missense,c.203T>A,3 - Uncertain,0.822262834
+Exon 5,Deletion,c.203_204delTA,5 - Definitely pathogenic,0.99
+Exon 5,Splice Site,c.211A>G,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.211A>G,5 - Definitely pathogenic,0.99938835
+Exon 5,Deletion,c.211delA,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.211_212delAG,5 - Definitely pathogenic,0.99
+Exon 5,Insertion,c.211dupA,5 - Definitely pathogenic,0.99
+Exon 5,Splice Site,c.212G>A,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.212+1G>A,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.212+1G>C,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.212+1G>T,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.212+2T>C,5 - Definitely pathogenic,0.99
+Intron 5,Insertion,c.212+2_212+3insG,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.213-15A>G,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.213-12A>G,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.213-11T>G,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.213-2A>C,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.213-2A>G,5 - Definitely pathogenic,0.99
+Intron 5,Splice Site,c.213-1G>A,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.139delT,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.140G>A,5 - Definitely pathogenic,0.999999713
+Exon 5,Nonsense,c.141C>A,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.143delT,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.144delG,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.154C>A,2 - Likely not pathogenic or of little clinical significance,0.004114034
+Exon 5,Missense,c.154C>T,3 - Uncertain,0.125674152
+Exon 5,Nonsense,c.160C>T,5 - Definitely pathogenic,0.99
+Exon 5,Deletion,c.160delC,5 - Definitely pathogenic,0.99
+Exon 5,Missense,c.172C>G,2 - Likely not pathogenic or of little clinical significance,0.014928405
+Exon 5,Nonsense,c.178C>T,5 - Definitely pathogenic,0.99
+Exon 6,Nonsense,c.220C>T,5 - Definitely pathogenic,0.99
+Exon 6,Nonsense,c.223G>T,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.224_227del4,5 - Definitely pathogenic,0.99
+Exon 6,Missense,c.230C>T,3 - Uncertain,0.895792298
+Exon 6,Nonsense,c.232A>T,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.232delA,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.237delT,5 - Definitely pathogenic,0.99
+Exon 6,Nonsense,c.241C>T,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.243delA,5 - Definitely pathogenic,0.99
+Exon 6,Insertion,c.244_245insA,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.246delT,5 - Definitely pathogenic,0.99
+Exon 6,Nonsense,c.250G>T,5 - Definitely pathogenic,0.99
+Exon 6,Nonsense,c.253G>T,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.265delA,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.273delT,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.273_274delTG,5 - Definitely pathogenic,0.99
+Exon 6,Nonsense,c.280C>T,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.269_281del13,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.283_286del4,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.284_288del5,5 - Definitely pathogenic,0.99
+Exon 6,Insertion,c.282_288dup7,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.290_291delCA,5 - Definitely pathogenic,0.99
+Exon 6,Deletion,c.296_297delTG,5 - Definitely pathogenic,0.99
+Intron 6,Splice Site,c.301+1G>A,5 - Definitely pathogenic,0.99
+Intron 6,Splice Site,c.302-3C>G,5 - Definitely pathogenic,0.99
+Intron 6,Splice Site,c.302-2A>C,5 - Definitely pathogenic,0.99
+Intron 6,Splice Site,c.302-2A>G,5 - Definitely pathogenic,0.99
+Intron 6,Deletion,c.302-2delA,5 - Definitely pathogenic,0.99
+Intron 6,Splice Site,c.302-1G>A,5 - Definitely pathogenic,0.99
+Intron 6,Splice Site,c.302-1G>C,5 - Definitely pathogenic,0.99
+Exon 7,Nonsense,c.303T>A,5 - Definitely pathogenic,0.99
+Exon 7,Nonsense,c.303T>G,5 - Definitely pathogenic,0.99
+Exon 7,Missense,c.305C>G,1 - Not pathogenic or of no clinical significance,0.000723806
+Exon 7,Insertion,c.310dupA,5 - Definitely pathogenic,0.99
+Exon 7,Missense,c.314A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 7,Insertion,c.315_316insGG,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.317delA,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.321delT,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.328_329delAA,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.329_330delAG,5 - Definitely pathogenic,0.99
+Exon 7,Insertion,c.329dupA,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.331delG,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.335delA,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.335_338del4,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.342_343delTC,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.343_344delCC,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.346delG,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.367delT,5 - Definitely pathogenic,0.99
+Exon 7,Missense,c.370A>G,1 - Not pathogenic or of no clinical significance,0.00014
+Exon 7,Insertion,c.374dupT,5 - Definitely pathogenic,0.99
+Exon 7,Insertion,c.375_376insT,5 - Definitely pathogenic,0.99
+Exon 7,Nonsense,c.376C>T,5 - Definitely pathogenic,0.99
+Exon 7,Missense,c.380G>A,3 - Uncertain,0.07871217
+Exon 7,Deletion,c.386delG,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.387delC,5 - Definitely pathogenic,0.99
+Exon 7,Nonsense,c.390C>A,5 - Definitely pathogenic,0.99
+Exon 7,Missense,c.396C>A,1 - Not pathogenic or of no clinical significance,0.00017
+Exon 7,Missense,c.398G>A,2 - Likely not pathogenic or of little clinical significance,0.002724453
+Exon 7,Deletion,c.399_400delTG,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.406delA,5 - Definitely pathogenic,0.99
+Exon 7,Insertion,c.406dupA,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.405_408del4,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.410_411delTT,5 - Definitely pathogenic,0.99
+Exon 7,Insertion,c.411dupT,5 - Definitely pathogenic,0.99
+Exon 7,Insertion,c.412_413dupCT,5 - Definitely pathogenic,0.99
+Exon 7,Nonsense,c.415C>T,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.420_421delTG,5 - Definitely pathogenic,0.99
+Exon 7,Missense,c.425C>A,1 - Not pathogenic or of no clinical significance,0
+Exon 7,Nonsense,c.427G>T,5 - Definitely pathogenic,0.99
+Exon 7,Missense,c.427G>A,1 - Not pathogenic or of no clinical significance,0.00001
+Exon 7,Deletion,c.431delA,5 - Definitely pathogenic,0.99
+Exon 7,Insertion,c.431dupA,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.437_440del4,5 - Definitely pathogenic,0.99
+Exon 7,Deletion,c.440delT,5 - Definitely pathogenic,0.99
+Intron 7,Splice Site,c.441+1G>A,5 - Definitely pathogenic,0.99
+Intron 7,Splice Site,c.441+2T>A,5 - Definitely pathogenic,0.99
+Intron 7,Splice Site,c.441+2T>G,5 - Definitely pathogenic,0.99
+Intron 7,Deletion,c.441+2delT,5 - Definitely pathogenic,0.99
+Intron 7,Splice Site,c.442-2A>G,5 - Definitely pathogenic,0.99
+Exon 8,Nonsense,c.445G>T,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.450delC,5 - Definitely pathogenic,0.99
+Exon 8,Missense,c.455T>C,2 - Likely not pathogenic or of little clinical significance,0.005104767
+Exon 8,Deletion,c.456_457delCA,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.457_458delAG,5 - Definitely pathogenic,0.99
+Exon 8,Insertion,c.457dupA,5 - Definitely pathogenic,0.99
+Exon 8,Nonsense,c.463C>T,5 - Definitely pathogenic,0.99
+Exon 8,Missense,c.463C>G,1 - Not pathogenic or of no clinical significance,0.00004
+Exon 8,Deletion,c.465delA,5 - Definitely pathogenic,0.99
+Exon 8,Missense,c.469T>C,2 - Likely not pathogenic or of little clinical significance,0.008291213
+Exon 8,Deletion,c.470_471delCT,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.470_477del8,5 - Definitely pathogenic,0.99
+Exon 8,Missense,c.478G>C,2 - Likely not pathogenic or of little clinical significance,0.002342184
+Exon 8,Deletion,c.485_486delTG,5 - Definitely pathogenic,0.99
+Exon 8,Insertion,c.485dupT,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.488delG,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.493_494delCT,5 - Definitely pathogenic,0.99
+Exon 8,Insertion,c.494dupT,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.496delA,5 - Definitely pathogenic,0.99
+Exon 8,Nonsense,c.502A>T,5 - Definitely pathogenic,0.99
+Exon 8,Nonsense,c.505C>T,5 - Definitely pathogenic,0.99
+Exon 8,Missense,c.508C>T,1 - Not pathogenic or of no clinical significance,0.000758678
+Exon 8,Missense,c.509G>A,3 - Uncertain,0.145805876
+Exon 8,Deletion,c.510delG,5 - Definitely pathogenic,0.99
+Exon 8,Insertion,c.512dupT,5 - Definitely pathogenic,0.99
+Exon 8,Nonsense,c.514C>T,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.514delC,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.519delT,5 - Definitely pathogenic,0.99
+Exon 8,Nonsense,c.520C>T,5 - Definitely pathogenic,0.99
+Exon 8,Deletion,c.520delC,5 - Definitely pathogenic,0.99
+Exon 8,Missense,c.535T>C,2 - Likely not pathogenic or of little clinical significance,0.005959375
+Exon 8,Missense,c.536A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 8,Deletion,c.536delA,5 - Definitely pathogenic,0.99
+Exon 8,Nonsense,c.541G>T,5 - Definitely pathogenic,0.99
+Exon 8,Insertion,c.545dupT,5 - Definitely pathogenic,0.99
+Intron 8,Splice Site,c.547+1G>A,5 - Definitely pathogenic,0.99
+Intron 8,Splice Site,c.547+1G>T,5 - Definitely pathogenic,0.99
+Intron 8,Splice Site,c.547+2T>A,5 - Definitely pathogenic,0.99
+Exon 9,Deletion,c.548delG,5 - Definitely pathogenic,0.99
+Exon 9,Missense,c.557C>A,1 - Not pathogenic or of no clinical significance,0
+Exon 9,Insertion,c.569_570ins4,5 - Definitely pathogenic,0.99
+Exon 9,Missense,c.571G>A,1 - Not pathogenic or of no clinical significance,0
+Intron 9,Splice Site,c.594-2A>C,5 - Definitely pathogenic,0.99
+Intron 9,Splice Site,c.594-2A>G,5 - Definitely pathogenic,0.99
+Exon 10,Deletion,c.594_597del4,5 - Definitely pathogenic,0.99
+Exon 10,Deletion,c.604delC,5 - Definitely pathogenic,0.99
+Exon 10,Nonsense,c.607G>T,5 - Definitely pathogenic,0.99
+Exon 10,Nonsense,c.616C>T,5 - Definitely pathogenic,0.99
+Exon 10,Insertion,c.624_625ins20,5 - Definitely pathogenic,0.99
+Exon 10,Insertion,c.631_632insT,5 - Definitely pathogenic,0.99
+Exon 10,Deletion,c.667_668delAA,5 - Definitely pathogenic,0.99
+Exon 10,Insertion,c.668dupA,5 - Definitely pathogenic,0.99
+Intron 10,Deletion,c.670+1delG,5 - Definitely pathogenic,0.99
+Intron 10,Splice Site,c.671-2A>C,5 - Definitely pathogenic,0.99
+Intron 10,Splice Site,c.671-2A>G,5 - Definitely pathogenic,0.99
+Intron 10,Splice Site,c.671-1G>A,5 - Definitely pathogenic,0.99
+Intron 10,Splice Site,c.671-1G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.672delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.676delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.677delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.677_678insC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.678T>A,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.679G>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.679_680dupGA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.686_687delCT,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.688G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.689_692del4,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.692C>T,3 - Uncertain,0.162017475
+Exon 11,Deletion,c.697_698delGT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.700delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.704delA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.709G>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.708_711dup4,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.716A>G,1 - Not pathogenic or of no clinical significance,0.000925328
+Exon 11,Nonsense,c.718C>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.722C>T,2 - Likely not pathogenic or of little clinical significance,0.005305792
+Exon 11,Deletion,c.726delT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.736T>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Deletion,c.737delT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.742dupA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.743C>A,3 - Uncertain,0.271662993
+Exon 11,Deletion,c.744delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.745delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.754delC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.763G>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.766_767dupAG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.768_769insA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.768_769insAG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.775delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.779dupA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.783T>G,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.784C>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.784delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.788_789delGT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.788dupG,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.792T>A,2 - Likely not pathogenic or of little clinical significance,0.007763538
+Exon 11,Deletion,c.791_794del4,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.794_795delCT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.798_799delTT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.799dupT,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.800C>G,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.803delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.809delA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.823G>A,2 - Likely not pathogenic or of little clinical significance,0.004267425
+Exon 11,Missense,c.824G>A,2 - Likely not pathogenic or of little clinical significance,0.007695754
+Exon 11,Insertion,c.814_824dup11,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.815_824dup10,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.827_828insT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.829_830delAA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.832dupA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.833_834insA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.835delC,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.839C>G,1 - Not pathogenic or of no clinical significance,0.00008
+Exon 11,Deletion,c.840delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.841delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.841_842dupAG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.843_846del4,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.848T>G,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.848T>A,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.850C>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.844_850dup7,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.851delA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.869T>G,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.869delT,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.872T>A,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.875delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.876_879del4,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.883delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.885_888del4,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.891G>A,1 - Not pathogenic or of no clinical significance,0.00006
+Exon 11,Deletion,c.894delT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.891G>T,1 - Not pathogenic or of no clinical significance,0.000632084
+Exon 11,Deletion,c.895_896delGT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.903_904insC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.907G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.909delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.911dupT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.922_923delAG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.923delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.923_924delGC,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.924C>A,3 - Uncertain,0.107180777
+Exon 11,Deletion,c.924delC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.925A>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.927delA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.928C>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.929delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.930delG,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.932C>T,2 - Likely not pathogenic or of little clinical significance,0.003119227
+Exon 11,Deletion,c.929_933del5,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.933delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.953delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.953_954insGT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.954dupT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.955A>G,2 - Likely not pathogenic or of little clinical significance,0.007039269
+Exon 11,Insertion,c.958_959insAC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.959_960delGA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.961delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.961_962delTG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.962G>A,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.964G>A,2 - Likely not pathogenic or of little clinical significance,0.005925472
+Exon 11,Missense,c.964G>C,2 - Likely not pathogenic or of little clinical significance,0.004949383
+Exon 11,Deletion,c.964delG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.967G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.968delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.969_970insC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.980_981delCA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.981_982delAT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.985_986delAA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.986_987dupAT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.994C>T,2 - Likely not pathogenic or of little clinical significance,0.009608014
+Exon 11,Missense,c.1001C>A,2 - Likely not pathogenic or of little clinical significance,0.004267425
+Exon 11,Missense,c.1001C>T,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Deletion,c.1002delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1008delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1008dupA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1012A>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1015A>G,3 - Uncertain,0.396782842
+Exon 11,Deletion,c.1016delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1016dupA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1016_1017insC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1018delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1034_1035insC,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1036C>T,2 - Likely not pathogenic or of little clinical significance,0.004267425
+Exon 11,Deletion,c.1039delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1039_1040delCT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1040delT,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1054G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1054delG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1058G>A,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1059G>A,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1063A>T,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1066C>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1067A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Deletion,c.1067delA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1069A>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1072delC,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1075C>T,2 - Likely not pathogenic or of little clinical significance,0.001638012
+Exon 11,Deletion,c.1068_1077del10,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1080_1081insA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1081T>C,2 - Likely not pathogenic or of little clinical significance,0.005223609
+Exon 11,Nonsense,c.1082C>G,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1086_1087delGA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1088delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1091delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1082_1092del11,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1099dupA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1100delC,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1100dupC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1102G>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1105G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Deletion,c.1112delC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1115G>A,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1116G>A,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1119_1120ins4,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1120delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1121delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1122_1123delAC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1127delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1126_1127dupAA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1135delA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1138C>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1140dupG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1141A>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1152dupG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1154G>A,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1155G>A,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1158_1159delTT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1159dupT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1166delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1157_1170del14,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1175_1178del4,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1179_1180dupAG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1188delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1190delA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1192T>C,3 - Uncertain,0.040132281
+Exon 11,Missense,c.1243G>A,2 - Likely not pathogenic or of little clinical significance,0.007968644
+Exon 11,Nonsense,c.1252G>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1252dupG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1255delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1257delA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1258G>T,2 - Likely not pathogenic or of little clinical significance,0.004873627
+Exon 11,Insertion,c.1265dupA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1266T>G,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1265_1266dupAT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1277delC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1279G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1287delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1287dupA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1277_1292del16,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1292T>G,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1292delT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1292dupT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1293dupA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1297delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1299dupC,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1299_1302dup4,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1303_1309del7,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1310A>T,2 - Likely not pathogenic or of little clinical significance,0.004739851
+Exon 11,Deletion,c.1319delT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1319dupT,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1326T>A,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1326_1327insG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1327A>T,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1333G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1335_1336delAA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1336delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1338_1339delAG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1339dupG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1340_1341delTT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1340_1341insG,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1342C>T,2 - Likely not pathogenic or of little clinical significance,0.005866173
+Exon 11,Nonsense,c.1352C>A,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1352C>G,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1354delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1356_1357insAG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1357delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1360_1361delAG,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1361G>A,2 - Likely not pathogenic or of little clinical significance,0.010070867
+Exon 11,Deletion,c.1361delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1352_1364del13,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1363_1364insGA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1369G>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1371delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1374delC,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1375A>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1378dupA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1380dupA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1383T>A,1 - Not pathogenic or of no clinical significance,0.000244369
+Exon 11,Deletion,c.1386delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1386dupG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1390delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1390dupA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1390_1391insG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1392delC,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1384_1393dup10,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1396C>T,2 - Likely not pathogenic or of little clinical significance,0.001844254
+Exon 11,Nonsense,c.1399A>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1403delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1405delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1402_1409del8,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1408dupA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1416delC,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1418A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.1418A>T,1 - Not pathogenic or of no clinical significance,0.000525246
+Exon 11,Nonsense,c.1421T>G,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1423A>T,2 - Likely not pathogenic or of little clinical significance,0.006581861
+Exon 11,Deletion,c.1426delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1434_1435delTG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1428_1437del10,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1439dupA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1442dupT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1444delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1444_1447del4,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1450G>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1456T>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Insertion,c.1462dupA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1465G>T,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1471C>T,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1480C>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1486C>T,1 - Not pathogenic or of no clinical significance,0.00089
+Exon 11,Missense,c.1487G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Deletion,c.1488delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1492delC,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1492dupC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1493_1494delTC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1483_1498del16,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1499delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1501_1504del4,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1505T>G,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1505delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1504_1507del4,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1507A>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1504_1508del5,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1505_1508del4,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1508A>G,2 - Likely not pathogenic or of little clinical significance,0.010082793
+Exon 11,Insertion,c.1499_1508dup10,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1506_1510del5,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1510delC,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1511G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Insertion,c.1511dupG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1513A>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1513_1514insT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1514A>T,2 - Likely not pathogenic or of little clinical significance,0.001373241
+Exon 11,Missense,c.1534C>T,1 - Not pathogenic or of no clinical significance,0.000142962
+Exon 11,Missense,c.1534C>G,2 - Likely not pathogenic or of little clinical significance,0.008044958
+Exon 11,Missense,c.1601A>G,2 - Likely not pathogenic or of little clinical significance,0.005311302
+Exon 11,Deletion,c.1601_1602delAG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1601dupA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1608_1611del4,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1612C>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1612_1616del5,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.1615dupA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1616C>T,1 - Not pathogenic or of no clinical significance,0.000272547
+Exon 11,Missense,c.1642A>G,3 - Uncertain,0.051954465
+Exon 11,Missense,c.1648A>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.1703C>G,2 - Likely not pathogenic or of little clinical significance,0.001752635
+Exon 11,Missense,c.1756C>T,2 - Likely not pathogenic or of little clinical significance,0.004739851
+Exon 11,Deletion,c.1757delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1758_1761del4,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1759_1762del4,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1766G>T,3 - Uncertain,0.050387597
+Exon 11,Missense,c.1772T>C,2 - Likely not pathogenic or of little clinical significance,0.002868568
+Exon 11,Deletion,c.1772delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1779_1785del7,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1789G>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1789G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.1834A>G,1 - Not pathogenic or of no clinical significance,0.000492152
+Exon 11,Missense,c.1865C>T,1 - Not pathogenic or of no clinical significance,0.00002
+Exon 11,Missense,c.1865C>G,3 - Uncertain,0.070587835
+Exon 11,Insertion,c.1874_1877dup4,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1879G>A,2 - Likely not pathogenic or of little clinical significance,0.004336792
+Exon 11,Missense,c.1903A>G,2 - Likely not pathogenic or of little clinical significance,0.007934592
+Exon 11,Missense,c.1924G>C,1 - Not pathogenic or of no clinical significance,0.00001
+Exon 11,Missense,c.1927A>G,1 - Not pathogenic or of no clinical significance,0.000549605
+Exon 11,Deletion,c.1930delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1934delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1936delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.1938_1945del8,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.1945G>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1960A>C,2 - Likely not pathogenic or of little clinical significance,0.004338241
+Exon 11,Missense,c.2002C>T,1 - Not pathogenic or of no clinical significance,0.00019
+Exon 11,Insertion,c.2005dupA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2006T>C,2 - Likely not pathogenic or of little clinical significance,0.001931494
+Exon 11,Nonsense,c.2008G>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2014A>G,2 - Likely not pathogenic or of little clinical significance,0.008097166
+Exon 11,Missense,c.2042G>T,2 - Likely not pathogenic or of little clinical significance,0.008027761
+Exon 11,Insertion,c.2043dupT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2048delA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2050C>T,2 - Likely not pathogenic or of little clinical significance,0.001493907
+Exon 11,Nonsense,c.2056G>T,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.2059C>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2060A>C,2 - Likely not pathogenic or of little clinical significance,0.00672794
+Exon 11,Deletion,c.2063_2066del4,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.2068A>T,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2066_2069del4,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2071delA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2074delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2075_2076delAT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2077G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Deletion,c.2077delG,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.2077_2078insTA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2080delA,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2083G>T,1 - Not pathogenic or of no clinical significance,0.000263283
+Exon 11,Deletion,c.2086delA,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.2086dupA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2090delT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.2090dupT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2093delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2101_2102delAA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.2105T>G,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.2105dupT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1486C>T,1 - Not pathogenic or of no clinical significance,0.00089
+Exon 11,Missense,c.1487G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2123C>A,3 - Uncertain,0.07073772
+Exon 11,Insertion,c.2125_2126insA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2126_2127delTT,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.2126_2127insA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2127delT,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2131_2132delAA,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2135delG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.2138C>A,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1423A>T,2 - Likely not pathogenic or of little clinical significance,0.006581861
+Exon 11,Deletion,c.2145delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2143_2147del5,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2147delG,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.2149G>T,5 - Definitely pathogenic,0.99
+Exon 11,Insertion,c.2157dupA,5 - Definitely pathogenic,0.99
+Exon 11,Nonsense,c.2158G>T,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.1418A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.1418A>T,1 - Not pathogenic or of no clinical significance,0.000525246
+Exon 11,Deletion,c.2166delC,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2167A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Deletion,c.2155_2168del14,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2174delG,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2176delC,5 - Definitely pathogenic,0.99
+Exon 11,Deletion,c.2176_2177delCT,5 - Definitely pathogenic,0.99
+Exon 11,Missense,c.2180C>T,1 - Not pathogenic or of no clinical significance,0.000166584
+Exon 11,Missense,c.2183G>A,2 - Likely not pathogenic or of little clinical significance,0.002680254
+Exon 11,Missense,c.1396C>T,2 - Likely not pathogenic or of little clinical significance,0.001844254
+Exon 11,Missense,c.1508A>G,2 - Likely not pathogenic or of little clinical significance,0.010082793
+Exon 11,Missense,c.1511G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.1514A>T,2 - Likely not pathogenic or of little clinical significance,0.001373241
+Exon 11,Missense,c.1534C>T,1 - Not pathogenic or of no clinical significance,0.000142962
+Exon 11,Missense,c.1534C>G,2 - Likely not pathogenic or of little clinical significance,0.008044958
+Exon 11,Missense,c.1601A>G,2 - Likely not pathogenic or of little clinical significance,0.005311302
+Exon 11,Missense,c.1616C>T,1 - Not pathogenic or of no clinical significance,0.000272547
+Exon 11,Missense,c.1642A>G,3 - Uncertain,0.051954465
+Exon 11,Missense,c.1648A>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.1703C>G,2 - Likely not pathogenic or of little clinical significance,0.001752635
+Exon 11,Missense,c.1756C>T,2 - Likely not pathogenic or of little clinical significance,0.004739851
+Exon 11,Missense,c.1766G>T,3 - Uncertain,0.050387597
+Exon 11,Missense,c.1772T>C,2 - Likely not pathogenic or of little clinical significance,0.002868568
+Exon 11,Missense,c.1789G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.1834A>G,1 - Not pathogenic or of no clinical significance,0.000492152
+Exon 11,Missense,c.1865C>T,1 - Not pathogenic or of no clinical significance,0.00002
+Exon 11,Missense,c.1865C>G,3 - Uncertain,0.070587835
+Exon 11,Missense,c.1879G>A,2 - Likely not pathogenic or of little clinical significance,0.004336792
+Exon 11,Missense,c.1903A>G,2 - Likely not pathogenic or of little clinical significance,0.007934592
+Exon 11,Missense,c.1924G>C,1 - Not pathogenic or of no clinical significance,0.00001
+Exon 11,Missense,c.1927A>G,1 - Not pathogenic or of no clinical significance,0.000549605
+Exon 11,Missense,c.2002C>T,1 - Not pathogenic or of no clinical significance,0.00019
+Exon 11,Missense,c.2006T>C,2 - Likely not pathogenic or of little clinical significance,0.001931494
+Exon 11,Missense,c.2014A>G,2 - Likely not pathogenic or of little clinical significance,0.008097166
+Exon 11,Missense,c.2042G>T,2 - Likely not pathogenic or of little clinical significance,0.008027761
+Exon 11,Missense,c.2050C>T,2 - Likely not pathogenic or of little clinical significance,0.001493907
+Exon 11,Missense,c.2060A>C,2 - Likely not pathogenic or of little clinical significance,0.00672794
+Exon 11,Missense,c.2077G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2083G>T,1 - Not pathogenic or of no clinical significance,0.000263283
+Exon 11,Missense,c.2123C>A,3 - Uncertain,0.07073772
+Exon 11,Missense,c.2167A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2180C>T,1 - Not pathogenic or of no clinical significance,0.000166584
+Exon 11,Missense,c.2183G>A,2 - Likely not pathogenic or of little clinical significance,0.002680254
+Exon 11,Missense,c.2207A>C,2 - Likely not pathogenic or of little clinical significance,0.005015311
+Exon 11,Missense,c.2245G>T,2 - Likely not pathogenic or of little clinical significance,0.00845048
+Exon 11,Missense,c.2246A>T,3 - Uncertain,0.081824469
+Exon 11,Missense,c.2252T>C,3 - Uncertain,0.060913139
+Exon 11,Missense,c.2286A>T,2 - Likely not pathogenic or of little clinical significance,0.00990099
+Exon 11,Missense,c.2294A>G,3 - Uncertain,0.063045324
+Exon 11,Missense,c.2315T>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2338C>A,2 - Likely not pathogenic or of little clinical significance,0.008689579
+Exon 11,Missense,c.2346T>A,2 - Likely not pathogenic or of little clinical significance,0.005752409
+Exon 11,Missense,c.2368A>G,2 - Likely not pathogenic or of little clinical significance,0.0085435
+Exon 11,Missense,c.2412G>C,1 - Not pathogenic or of no clinical significance,0.00045
+Exon 11,Missense,c.2428A>T,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2447A>G,2 - Likely not pathogenic or of little clinical significance,0.002388664
+Exon 11,Missense,c.2458A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2477C>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2482G>A,2 - Likely not pathogenic or of little clinical significance,0.001157899
+Exon 11,Missense,c.2503C>T,2 - Likely not pathogenic or of little clinical significance,0.006338851
+Exon 11,Missense,c.2521C>T,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2522G>A,2 - Likely not pathogenic or of little clinical significance,0.002653803
+Exon 11,Missense,c.2525A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2564A>C,2 - Likely not pathogenic or of little clinical significance,0.008496979
+Exon 11,Missense,c.2566T>C,1 - Not pathogenic or of no clinical significance,0.00018
+Exon 11,Missense,c.2584A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2596C>T,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2597G>A,1 - Not pathogenic or of no clinical significance,0.000573601
+Exon 11,Missense,c.2612C>T,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2650A>G,2 - Likely not pathogenic or of little clinical significance,0.001399866
+Exon 11,Missense,c.2668G>C,2 - Likely not pathogenic or of little clinical significance,0.005555245
+Exon 11,Missense,c.2669G>T,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2692A>G,2 - Likely not pathogenic or of little clinical significance,0.002267439
+Exon 11,Missense,c.2728C>G,2 - Likely not pathogenic or of little clinical significance,0.002342184
+Exon 11,Missense,c.2758G>A,1 - Not pathogenic or of no clinical significance,0.000285122
+Exon 11,Missense,c.2759T>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2765C>G,2 - Likely not pathogenic or of little clinical significance,0.005694054
+Exon 11,Missense,c.2770A>G,2 - Likely not pathogenic or of little clinical significance,0.00990099
+Exon 11,Missense,c.2773A>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.2783G>A,2 - Likely not pathogenic or of little clinical significance,0.002419504
+Exon 11,Missense,c.2798G>C,1 - Not pathogenic or of no clinical significance,0.000150488
+Exon 11,Missense,c.2857T>C,2 - Likely not pathogenic or of little clinical significance,0.010070867
+Exon 11,Missense,c.2884G>A,1 - Not pathogenic or of no clinical significance,0.000970787
+Exon 11,Missense,c.2891G>A,3 - Uncertain,0.067181861
+Exon 11,Missense,c.2912A>G,1 - Not pathogenic or of no clinical significance,0.000193662
+Exon 11,Missense,c.2917C>G,2 - Likely not pathogenic or of little clinical significance,0.004739851
+Exon 11,Missense,c.2935C>T,2 - Likely not pathogenic or of little clinical significance,0.004305927
+Exon 11,Missense,c.2963C>T,2 - Likely not pathogenic or of little clinical significance,0.003448496
+Exon 11,Missense,c.2998G>A,2 - Likely not pathogenic or of little clinical significance,0.001011077
+Exon 11,Missense,c.3022A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3024G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3040A>T,2 - Likely not pathogenic or of little clinical significance,0.001349158
+Exon 11,Missense,c.3080G>A,3 - Uncertain,0.051954465
+Exon 11,Missense,c.3083G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3113A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3119G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3143G>T,1 - Not pathogenic or of no clinical significance,0.000313642
+Exon 11,Missense,c.3143G>A,2 - Likely not pathogenic or of little clinical significance,0.009309408
+Exon 11,Missense,c.3211G>A,2 - Likely not pathogenic or of little clinical significance,0.004486066
+Exon 11,Missense,c.3220A>G,2 - Likely not pathogenic or of little clinical significance,0.005851852
+Exon 11,Missense,c.3267G>T,2 - Likely not pathogenic or of little clinical significance,0.005645213
+Exon 11,Missense,c.3302G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3305A>G,2 - Likely not pathogenic or of little clinical significance,0.00410659
+Exon 11,Missense,c.3327A>C,1 - Not pathogenic or of no clinical significance,0.00003
+Exon 11,Missense,c.3347T>G,2 - Likely not pathogenic or of little clinical significance,0.008097166
+Exon 11,Missense,c.3418A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3424G>C,2 - Likely not pathogenic or of little clinical significance,0.00136681
+Exon 11,Missense,c.3448C>T,2 - Likely not pathogenic or of little clinical significance,0.008097166
+Exon 11,Missense,c.3454G>A,2 - Likely not pathogenic or of little clinical significance,0.001371109
+Exon 11,Missense,c.3463G>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3548A>G,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3581C>T,2 - Likely not pathogenic or of little clinical significance,0.005817004
+Exon 11,Missense,c.3600G>T,2 - Likely not pathogenic or of little clinical significance,0.008097166
+Exon 11,Missense,c.3600G>C,2 - Likely not pathogenic or of little clinical significance,0.00709
+Exon 11,Missense,c.3601G>A,2 - Likely not pathogenic or of little clinical significance,0.006679729
+Exon 11,Missense,c.3608G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3640G>A,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3655G>A,2 - Likely not pathogenic or of little clinical significance,0.001692125
+Exon 11,Missense,c.3657G>C,1 - Not pathogenic or of no clinical significance,0.000502533
+Exon 11,Missense,c.3667C>T,2 - Likely not pathogenic or of little clinical significance,0.007222981
+Exon 11,Missense,c.3713C>T,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3797G>C,1 - Not pathogenic or of no clinical significance,0
+Exon 11,Missense,c.3800T>C,2 - Likely not pathogenic or of little clinical significance,0.004267425
+Exon 11,Missense,c.3818A>G,3 - Uncertain,0.169786372
+Exon 11,Missense,c.3835G>A,2 - Likely not pathogenic or of little clinical significance,0.007725871
